@@ -4,9 +4,9 @@ A project that you can clone and run, to use as a JavaScript playground.
 
 ## Features
 
-- [Babel](https://babeljs.io/) for modern JavaScript support
-- [Prettier](https://prettier.io/) for code formatting
-- Hot Module Replacement
+- 🔥 **Hot Module Replacement** for updating modules without needing a page refresh
+- 🐠 [Babel](https://babeljs.io/) for modern JavaScript support
+- ✨ [Prettier](https://prettier.io/) for code formatting
 
 ## Install
 
